@@ -15,4 +15,6 @@ require 'consentcheck.php'
 (replace consentcheck.php by the new file name you added in step 2)
 
 ## WARNING
+**There could be problems with Art. 7 DSGVO. Use at own risk!**
+
 This is only a technical proof-of-concept without any claim to correctness, accuracy or completeness!
