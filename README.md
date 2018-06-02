@@ -7,7 +7,7 @@ This is a (dirty, but working) PHP implementation for a consent check before ent
 - rename **index.php** to something you like (e.g. **consentcheck.php**)
 - add your privacy statement to **privacy-statement.html**
 - place the files into your webroot of your PHP application
-- add the following to your index.php / PHP bootstrap file
+- add the following at **the very top (probably line 2)** of your index.php / PHP bootstrap file
 
 ```php
 require 'consentcheck.php'
